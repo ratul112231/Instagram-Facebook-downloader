@@ -51,17 +51,17 @@ def start_command(message):
 
     btn1 = types.InlineKeyboardButton(
         "📢 SUBSCRIBE CHANNEL",
-        url=YOUTUBE_LINK
+        url=https://t.me/G8rSWrAFzo1YzY1
     )
 
     btn2 = types.InlineKeyboardButton(
         "🎓 ALL TUTORIALS",
-        url=YOUTUBE_LINK
+        url=https://t.me/G8rSWrAFzo1YzY1
     )
 
     btn3 = types.InlineKeyboardButton(
         "👤 CONTACT OWNER",
-        url=SUPPORT_LINK
+        url=https://t.me/G8rSWrAFzo1YzY1
     )
 
     markup.add(btn1)
