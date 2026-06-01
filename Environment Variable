@@ -1,1 +1,1 @@
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8864648929:AAGY5_j3a0AGj2oQsRHVyVQ75tNfk9qJtk0")
